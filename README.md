@@ -35,4 +35,4 @@ Ein weiteres Highlight: Dein Chatverlauf wird automatisch gespeichert, damit du 
 
 
 ![image](https://media.discordapp.net/attachments/1201468899057737751/1327214198979297382/Screenshot_189.png?ex=6782400b&is=6780ee8b&hm=745de8c36df9b28ca8ea2a8aff998edb83282fbcab6cd7b5a9e5d9719fd1158c&=&format=webp&quality=lossless)
-![image](https://cdn.discordapp.com/attachments/1201468899057737751/1327215296448168019/Screenshot_191.png?ex=67824111&is=6780ef91&hm=abe361a88958d9badc3c8e0462598e8ab1d937a8ca543502d2bab00d73921fa4&)
+![image](https://media.discordapp.net/attachments/1201468899057737751/1327215296448168019/Screenshot_191.png?ex=67882fd1&is=6786de51&hm=b4f36ffbdafc755b6f6c6b36124b16e91b9839c6b46a3c54cddcf22c4ceb58c6&=&format=webp&quality=lossless&width=1284&height=701)
